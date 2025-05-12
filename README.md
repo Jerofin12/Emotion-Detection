@@ -38,6 +38,8 @@ emotion_speech_recognition/
 ├── Emotion Detection.ppt       # Project slides
 ├── README.md                   # Project documentation
 
+# Input Link
+https://youtube.com/shorts/qe3lzbs47UY?si=N20f5ymqvEahgLrD
 
 # ⚠️ Limitations
 Trained on simulated (fake) data, not real emotional recordings.

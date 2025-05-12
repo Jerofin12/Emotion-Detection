@@ -35,8 +35,9 @@ pip install openai-whisper librosa scikit-learn moviepy numpy
 emotion_speech_recognition/
 │
 ├── Emotion Detection.ipynb     # Main script containing all steps
-├── Emotion Detection.ppt       # Project slides
-├── README.md                   # Project documentation
+├── Emotion Detection.pptx      # Project slides
+├── README.md                   # Project README
+├── Emotion Detection           # Project documentation
 
 # Input Link
 
